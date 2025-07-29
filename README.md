@@ -2,6 +2,10 @@
 A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:  
 You can use it in various softwares like GIMP or Aseprite.
 
+If you want to support me, you can use the Ko-fi button.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z622E32)
+
 ## List of Palettes 🏷️
 * RGR-Proto16 / A 16 colour palette inspired by old PC's and reddish and warm colours. 
 * RGR-Papercut4 / 4 colours inspired by old paper and ink.
