@@ -89,3 +89,20 @@ Description: A 32 Colour palette intended as a general pixel-art colour scheme.
 * ![#32304c](https://placehold.co/15x15/32304c/32304c.png) `#32304c`	**Gris oscuro**
 * ![#1e151d](https://placehold.co/15x15/1e151d/1e151d.png) `#1e151d`	**Gris violento**
 * ![#1a021a](https://placehold.co/15x15/1a021a/1a021a.png) `#1a021a`	**Negro pesadilla**
+
+### RGR-Bone8
+Description: A Monochromatic palette of 8 colors inspired by spooky skeletons. 
+**Colors: 8**  
+
+![rgr-bone8-palette-example-by-ruchary](https://github.com/user-attachments/assets/3744269d-e0ac-4ca7-b708-52689e99748a)
+
+![#1A120B](https://placehold.co/15x15/1A120B/1A120B.png) ![#2E251E](https://placehold.co/15x15/2E251E/2E251E.png) ![#42392F](https://placehold.co/15x15/42392F/42392F.png) ![#695F4F](https://placehold.co/15x5/695F4F/695F4F.png) ![#8F8572](https://placehold.co/15x15/8F8572/8F8572.png) ![#B5AC96](https://placehold.co/15x15/B5AC96/B5AC96.png) ![#DBD3BB](https://placehold.co/15x15/DBD3BB/DBD3BB.png) ![#F2EBE9](https://placehold.co/15x15/F2EBE9/F2EBE9.png)
+
+* ![#1A120B](https://placehold.co/15x15/1A120B/1A120B.png) `#1A120B`	**Dark Night**
+* ![#2E251E](https://placehold.co/15x15/2E251E/2E251E.png) `#2E251E`	**Unseen Cloack**
+* ![#42392F](https://placehold.co/15x15/42392F/42392F.png) `#42392F`	**Darkgray Road**
+* ![#695F4F](https://placehold.co/15x15/695F4F/695F4F.png) `#695F4F`	**Gray Tombstone**
+* ![#8F8572](https://placehold.co/15x15/8F8572/8F8572.png) `#8F8572`	**Dirty Mummy**
+* ![#B5AC96](https://placehold.co/15x15/B5AC96/B5AC96.png) `#B5AC96`	**Monotonous Gray**
+* ![#DBD3BB](https://placehold.co/15x15/DBD3BB/DBD3BB.png) `#DBD3BB`	**White Cranium**
+* ![#F2EBE9](https://placehold.co/15x15/F2EBE9/F2EBE9.png) `#F2EBE9`	**Light in the darkness**
