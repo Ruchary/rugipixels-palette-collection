@@ -1,10 +1,16 @@
-# Ruchary's Palette collection. :art:
-A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:
+# Ruchary's Palette collection - Aseprite Extension. :art:
+A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:  
+You can use it in various softwares like GIMP or Aseprite.
+
+If you want to support me, you can use the Ko-fi button.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z622E32)
 
 ## List of Palettes 🏷️
 * RGR-Proto16 / A 16 colour palette inspired by old PC's and reddish and warm colours. 
 * RGR-Papercut4 / 4 colours inspired by old paper and ink.
 * RGR-MPP32 / Multi-Purpose palette of 32 colours.
+* RGR-Bone8 / 8 colours from a spooky skeleton.
 
 ### RGR-Proto16  
 Description: A 16 colour palette inspired by old PC's and reddish and warm colours.  
@@ -48,6 +54,8 @@ Description: A 4 colour palette inspired by ink and paper.
 Description: A 32 Colour palette intended as a general pixel-art colour scheme.  
 **Colors: 32**  
 
+![rgr-mpp32-palette-example-by-ruchary](https://github.com/user-attachments/assets/a03629ff-7526-4508-a9ec-46f568608d7d)
+
 ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) ![#f2b58c](https://placehold.co/15x15/f2b58c/f2b58c.png) ![#db7862](https://placehold.co/15x15/db7862/db7862.png) ![#c53232](https://placehold.co/15x15/c53232/c53232.png) ![#87082e](https://placehold.co/15x15/87082e/87082e.png) ![#4d0c3c](https://placehold.co/15x15/4d0c3c/4d0c3c.png) ![#f2d355](https://placehold.co/15x15/f2d355/f2d355.png) ![#e68f3e](https://placehold.co/15x15/e68f3e/e68f3e.png) ![#cf502a](https://placehold.co/15x15/cf502a/cf502a.png) ![#6e2525](https://placehold.co/15x15/6e2525/6e2525.png) ![#3d1416](https://placehold.co/15x15/3d1416/3d1416.png) ![#7dc756](https://placehold.co/15x15/7dc756/7dc756.png) ![#358546](https://placehold.co/15x15/358546/358546.png) ![#1e534e](https://placehold.co/15x15/1e534e/1e534e.png) ![#111e36](https://placehold.co/15x15/111e36/111e36.png) ![#c9efe0](https://placehold.co/15x15/c9efe0/c9efe0.png) ![#68a4c2](https://placehold.co/15x15/68a4c2/68a4c2.png) ![#335bac](https://placehold.co/15x15/335bac/335bac.png) ![#1e202e](https://placehold.co/15x15/1e202e/1e202e.png) ![#f2d0bb](https://placehold.co/15x15/f2d0bb/f2d0bb.png) ![#d0946e](https://placehold.co/15x15/d0946e/d0946e.png) ![#a75844](https://placehold.co/15x15/a75844/a75844.png) ![#e68198](https://placehold.co/15x15/e68198/e68198.png) ![#d9577c](https://placehold.co/15x15/d9577c/d9577c.png) ![#9e3a8a](https://placehold.co/15x15/9e3a8a/9e3a8a.png) ![#4a2a61](https://placehold.co/15x15/4a2a61/4a2a61.png) ![#b4bebf](https://placehold.co/15x15/b4bebf/b4bebf.png) ![#8e91a0](https://placehold.co/15x15/8e91a0/8e91a0.png) ![#606779](https://placehold.co/15x15/606779/606779.png) ![#32304c](https://placehold.co/15x15/32304c/32304c.png) ![#1e151d](https://placehold.co/15x15/1e151d/1e151d.png) ![#1a021a](https://placehold.co/15x15/1a021a/1a021a.png)
 
 * ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff`	**Blanco puro**
@@ -82,3 +90,20 @@ Description: A 32 Colour palette intended as a general pixel-art colour scheme.
 * ![#32304c](https://placehold.co/15x15/32304c/32304c.png) `#32304c`	**Gris oscuro**
 * ![#1e151d](https://placehold.co/15x15/1e151d/1e151d.png) `#1e151d`	**Gris violento**
 * ![#1a021a](https://placehold.co/15x15/1a021a/1a021a.png) `#1a021a`	**Negro pesadilla**
+
+### RGR-Bone8
+Description: A Monochromatic palette of 8 colors inspired by spooky skeletons. 
+**Colors: 8**  
+
+![rgr-bone8-palette-example-by-ruchary](https://github.com/user-attachments/assets/3744269d-e0ac-4ca7-b708-52689e99748a)
+
+![#1A120B](https://placehold.co/15x15/1A120B/1A120B.png) ![#2E251E](https://placehold.co/15x15/2E251E/2E251E.png) ![#42392F](https://placehold.co/15x15/42392F/42392F.png) ![#695F4F](https://placehold.co/15x5/695F4F/695F4F.png) ![#8F8572](https://placehold.co/15x15/8F8572/8F8572.png) ![#B5AC96](https://placehold.co/15x15/B5AC96/B5AC96.png) ![#DBD3BB](https://placehold.co/15x15/DBD3BB/DBD3BB.png) ![#F2EBE9](https://placehold.co/15x15/F2EBE9/F2EBE9.png)
+
+* ![#1A120B](https://placehold.co/15x15/1A120B/1A120B.png) `#1A120B`	**Dark Night**
+* ![#2E251E](https://placehold.co/15x15/2E251E/2E251E.png) `#2E251E`	**Unseen Cloack**
+* ![#42392F](https://placehold.co/15x15/42392F/42392F.png) `#42392F`	**Darkgray Road**
+* ![#695F4F](https://placehold.co/15x15/695F4F/695F4F.png) `#695F4F`	**Gray Tombstone**
+* ![#8F8572](https://placehold.co/15x15/8F8572/8F8572.png) `#8F8572`	**Dirty Mummy**
+* ![#B5AC96](https://placehold.co/15x15/B5AC96/B5AC96.png) `#B5AC96`	**Monotonous Gray**
+* ![#DBD3BB](https://placehold.co/15x15/DBD3BB/DBD3BB.png) `#DBD3BB`	**White Cranium**
+* ![#F2EBE9](https://placehold.co/15x15/F2EBE9/F2EBE9.png) `#F2EBE9`	**Light in the darkness**
