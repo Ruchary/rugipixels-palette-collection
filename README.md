@@ -97,7 +97,8 @@ Description: A Monochromatic palette of 8 colors inspired by spooky skeletons.
 
 ![rgr-bone8-palette-example-by-ruchary](https://github.com/user-attachments/assets/3744269d-e0ac-4ca7-b708-52689e99748a)
 
-![#1A120B](https://placehold.co/15x15/1A120B/1A120B.png) ![#2E251E](https://placehold.co/15x15/2E251E/2E251E.png) ![#42392F](https://placehold.co/15x15/42392F/42392F.png) ![#695F4F](https://placehold.co/15x5/695F4F/695F4F.png) ![#8F8572](https://placehold.co/15x15/8F8572/8F8572.png) ![#B5AC96](https://placehold.co/15x15/B5AC96/B5AC96.png) ![#DBD3BB](https://placehold.co/15x15/DBD3BB/DBD3BB.png) ![#F2EBE9](https://placehold.co/15x15/F2EBE9/F2EBE9.png)
+![#1A120B](https://placehold.co/15x15/1A120B/1A120B.png) ![#2E251E](https://placehold.co/15x15/2E251E/2E251E.png) ![#42392F](https://placehold.co/15x15/42392F/42392F.png) ![#695F4F](https://placehold.co/15x15/695F4F/695F4F.png) 
+![#8F8572](https://placehold.co/15x15/8F8572/8F8572.png) ![#B5AC96](https://placehold.co/15x15/B5AC96/B5AC96.png) ![#DBD3BB](https://placehold.co/15x15/DBD3BB/DBD3BB.png) ![#F2EBE9](https://placehold.co/15x15/F2EBE9/F2EBE9.png)
 
 * ![#1A120B](https://placehold.co/15x15/1A120B/1A120B.png) `#1A120B`	**Dark Night**
 * ![#2E251E](https://placehold.co/15x15/2E251E/2E251E.png) `#2E251E`	**Unseen Cloack**
