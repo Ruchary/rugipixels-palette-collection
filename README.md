@@ -11,6 +11,7 @@ If you want to support me, you can use the Ko-fi button.
 * [RGR-Papercut4](#RGR-Papercut4) / 4 colours inspired by old paper and ink.
 * [RGR-MPP32](#RGR-MPP32) / Multi-Purpose palette of 32 colours.
 * [RGR-Bone8](#RGR-Bone8) / 8 colours from a spooky skeleton.
+* [RGR-Blueprint4](#RGR-Blueprint4) / Inspired by blueprints and the Commodore 64 terminal.
 
 ### RGR-Proto16  
 Description: A 16 colour palette inspired by old PC's and reddish and warm colours.  
@@ -108,3 +109,16 @@ Description: A Monochromatic palette of 8 colors inspired by spooky skeletons.
 * ![#B5AC96](https://placehold.co/15x15/B5AC96/B5AC96.png) `#B5AC96`	**Monotonous Gray**
 * ![#DBD3BB](https://placehold.co/15x15/DBD3BB/DBD3BB.png) `#DBD3BB`	**White Cranium**
 * ![#F2EBE9](https://placehold.co/15x15/F2EBE9/F2EBE9.png) `#F2EBE9`	**Light in the darkness**
+
+### RGR-Blueprint4
+Description: A 4 colour pallete inspired by the blueprints and the Commodore 64 terminal. 
+**Colors: 4**
+
+![rgr-bone8-palette-example-by-ruchary](https://github.com/user-attachments/assets/ad2e5b55-a09c-4ebf-8f93-aa3277ced09c)
+
+![#DAECFF](https://placehold.co/15x15/DAECFF/DAECFF.png) ![#73A0E6](https://placehold.co/15x15/73A0E6/73A0E6.png) ![#5283CC](https://placehold.co/15x15/5283CC/5283CC.png) ![#3051BF](https://placehold.co/15x15/3051BF/3051BF.png)
+
+* ![#DAECFF](https://placehold.co/15x15/DAECFF/DAECFF.png) `#DAECFF`	**White Chalk**
+* ![#73A0E6](https://placehold.co/15x15/73A0E6/73A0E6.png) `#73A0E6`	**Blue Sky**
+* ![#5283CC](https://placehold.co/15x15/5283CC/5283CC.png) `#5283CC`	**Blue Ocean**
+* ![#3051BF](https://placehold.co/15x15/3051BF/3051BF.png) `#3051BF`	**Deep Sea Blue**
