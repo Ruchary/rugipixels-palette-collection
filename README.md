@@ -1,4 +1,4 @@
-# Ruchary's Palette collection - Aseprite Extension. :art:
+# RugiPixels's Palette collection - Aseprite Extension. :art:
 A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:  
 You can use it in various softwares like GIMP or Aseprite.
 
