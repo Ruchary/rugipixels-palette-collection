@@ -1,0 +1,15 @@
+{
+  "name": "RGR-Bone8",
+  "displayName": "RugiPixels's Bone8 colour palette",
+  "description": "A Monochromatic palette of 8 colors inspired by spooky skeletons.",
+  "version": "1.0",
+  "author": { "name": "Rugiero -RugiPixels- Gabriel Roca", "url": "https://www.instagram.com/rugipixels/" },
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "RGR-Bone8", 	"path": "./rgr-bone8.gpl" }
+    ]
+  }
+}

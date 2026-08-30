@@ -1,0 +1,19 @@
+{
+  "name": "rugipixels-palettes",
+  "displayName": "RugiPixels's palette collection",
+  "description": "A collection of various color palettes made by myself, intended for videogames or digital art creation.",
+  "version": "1.2",
+  "author": { "name": "Rugiero -RugiPixels- Gabriel Roca", "url": "https://www.instagram.com/rucharyarts/" },
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "RGR-Proto16", 	"path": "./rgr-proto16.gpl" },
+	  { "id": "RGR-Papercut4",  "path": "./rgr-papercut4.gpl" },
+	  { "id": "RGR-MPP32", 	    "path": "./rgr-mpp32.gpl" },
+	  { "id": "RGR-Bone8", 	    "path": "./rgr-bone8.gpl" },
+	  { "id": "RGR-Blueprint4", "path": "./rgr-blueprint4.gpl" }
+    ]
+  }
+}

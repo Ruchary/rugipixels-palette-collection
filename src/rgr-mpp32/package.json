@@ -1,0 +1,15 @@
+{
+  "name": "RGR-MPP32",
+  "displayName": "RugiPixels's Multiple Purpose Palette of 32 colors (MPP)",
+  "description": "A 32 Colour palette intended as a general pixel-art colour scheme.",
+  "version": "1.0",
+  "author": { "name": "Rugiero -RugiPixels- Gabriel Roca", "url": "https://www.instagram.com/rugipixels/" },
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "RGR-MPP32", 	"path": "./rgr-mpp32.gpl" }
+    ]
+  }
+}

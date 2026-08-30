@@ -1,0 +1,15 @@
+{
+  "name": "RGR-Blueprint4",
+  "displayName": "RugiPixels's Blueprint4 colour palette",
+  "description": "A 4 colour pallete inspired by the blueprints and the Commodore 64 terminal.",
+  "version": "1.0",
+  "author": { "name": "Rugiero -RugiPixels- Gabriel Roca", "url": "https://www.instagram.com/rugipixels/" },
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "RGR-Blueprint4", 	"path": "./rgr-blueprint4.gpl" }
+    ]
+  }
+}

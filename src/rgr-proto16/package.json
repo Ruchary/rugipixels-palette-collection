@@ -1,0 +1,15 @@
+{
+  "name": "RGR-Proto16",
+  "displayName": "RugiPixels's Proto16 colour palette",
+  "description": "A 16 colour palette inspired by old PC's and reddish and warm colours.",
+  "version": "1.5",
+  "author": { "name": "Rugiero -RugiPixels- Gabriel Roca", "url": "https://www.instagram.com/rugipixels/" },
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "RGR-Proto16", "path": "./rgr-proto16.gpl" }
+    ]
+  }
+}
